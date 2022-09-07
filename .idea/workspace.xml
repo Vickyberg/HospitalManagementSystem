@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de12de9-31ad-4024-9c4a-506d9c5f5331" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/enums/HealthProfessionalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/exception/HospitalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/exception/PatientNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/models/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/models/HealthProfessional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/models/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/models/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/models/Pharmacist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/services/PatientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/services/PatientServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/hospitalManagement/DoctorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/hospitalManagement/services/PatientServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/services/PatientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hospitalManagement/services/PatientServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +17,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -62,7 +46,8 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_directory_selection": "C:/Users/Olamide/spring-demo-one/HospitalManagementSystem/test"
+    "last_directory_selection": "C:/Users/Olamide/spring-demo-one/HospitalManagementSystem/test/com/hospitalManagement",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -73,6 +58,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hospitalManagement.services" />
       <recent name="com.hospitalManagement.models" />
     </key>
   </component>
@@ -124,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662558331389</updated>
-      <workItem from="1662558334145" duration="4869000" />
+      <workItem from="1662558334145" duration="7416000" />
     </task>
     <servers />
   </component>
